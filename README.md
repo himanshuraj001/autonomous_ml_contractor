@@ -1,4 +1,4 @@
-# Autonomous ML Agent
+# Autonomous ML Contractor
 
 A fully autonomous machine learning pipeline that takes a plain-language user request and delivers a trained, debugged, and iteratively improved model — without any manual intervention. The system orchestrates a multi-agent workflow powered by a locally running quantized LLM (Qwen2.5-7B-Instruct) for planning and contract negotiation, and Google Gemini for code generation, debugging, and performance analysis.
 
